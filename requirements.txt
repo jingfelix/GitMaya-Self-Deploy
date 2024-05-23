@@ -39,7 +39,7 @@ pycparser==2.21
 pycryptodome==3.19.1
 pydantic==2.5.3
 pydantic-core==2.14.6
-pymysql==1.1.0
+pymysql==1.1.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 redis==5.0.1
