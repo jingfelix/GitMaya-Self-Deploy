@@ -12,7 +12,7 @@ ca-lark-oauth==0.0.6
 ca-lark-sdk==0.0.24
 ca-lark-webhook==0.0.5
 celery==5.3.6
-certifi==2023.11.17
+certifi==2024.7.4
 cffi==1.16.0
 click==8.1.7
 click-didyoumean==0.3.0
