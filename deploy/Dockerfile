@@ -1,4 +1,4 @@
-FROM python:3.10-slim-bookworm
+FROM python:3.14.0a3-slim-bookworm
 
 RUN sed -i "s@http://deb.debian.org@http://mirrors.aliyun.com@g" /etc/apt/sources.list.d/debian.sources
 RUN ln -fs /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
